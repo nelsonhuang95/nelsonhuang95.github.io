@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-* Hello, I’m JZijian!
+* Hello, I’m Zijian!
 <br>
 * I am a MSc student at the University of Auckland, majoring in Computer Science.
