@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:
+title: Biography
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 
 <br>
-
 Education
 ======
 * 2021-2022: Master of Science in Computer Science, the University of Auckland, New Zealand (Supervisor: Dr. Meng-Fen Chiang)
