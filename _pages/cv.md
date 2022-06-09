@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Auckland, 2016-2019
-* M.S. in Computer Science, University of Auckland, 2021-2022
+* 2021-2022: Master of Science in Computer Science, the University of Auckland, New Zealand (Supervisor: Dr. Meng-Fen Chiang)
+* 2016-2019: Bachelor of Science in Computer Science, the University of Auckland, New Zealand
   
 
 Publications
