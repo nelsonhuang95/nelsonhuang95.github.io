@@ -1,7 +1,7 @@
 ---
 title: "LinE: Logical Query Reasoning over Hierarchical Knowledge"
 collection: publications
-permalink: ''
+permalink: '/publication/LinE'
 excerpt: ''
 date: 2022-08-14
 venue: 'SIGKDD'
