@@ -1,3 +1,4 @@
+---
 title: "LinE: Logical Query Reasoning over Hierarchical Knowledge"
 collection: publications
 permalink: ''
