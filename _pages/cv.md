@@ -28,6 +28,6 @@ Work experience
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include publications.html %}
+    {% include selected_publications.html %}
   {% endfor %}</ul>
  
