@@ -4,7 +4,7 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <li>
     {% if post.citation and post.paperurl %}
-      <p>{{ post.citation }} <a href=" {{ post.paperurl }} "><u>[pdf]</u></a></p>
+      { post.citation }} <a href=" {{ post.paperurl }} "><u>[pdf]</u></a>
     {% elsif post.citation %}
       <p> {{ post.citation }} </p>
     {% elsif post.paperurl %}
