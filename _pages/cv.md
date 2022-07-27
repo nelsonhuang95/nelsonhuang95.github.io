@@ -17,7 +17,7 @@ Education
 
 <br>
 
-Internship experience
+Work experience
 ======
 * 2022.03-2022.07: Guangzhou Urban Planning & Design Survey Research Institute, Guangzhou, China
   > Intern
