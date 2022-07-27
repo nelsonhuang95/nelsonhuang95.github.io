@@ -28,6 +28,6 @@ Work experience
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include publications.html %}
   {% endfor %}</ul>
  
