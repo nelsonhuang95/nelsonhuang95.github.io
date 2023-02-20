@@ -11,7 +11,8 @@ redirect_from:
 <br>
 
 ## Education
-* 2021-2022: M.Sc. in Computer Science, the University of Auckland, New Zealand (Supervisor: [Dr. Meng-Fen Chiang](https://ankechiang.github.io/))
+* 2023-Present: Ph.D. candidate, the University of Auckland, New Zealand
+* 2021-2022: M.Sc. in Computer Science (First Class), the University of Auckland, New Zealand (Supervisor: [Dr. Meng-Fen Chiang](https://ankechiang.github.io/))
 * 2016-2019: B.Sc. in Computer Science, the University of Auckland, New Zealand
 
 <br>
@@ -27,4 +28,9 @@ redirect_from:
   <ul>{% for post in site.publications %}
     {% include selected_publications.html %}
   {% endfor %}</ul>
+  
+<br>
+
+## Awards
+* The University of Auckland Doctoral Scholarship
  
