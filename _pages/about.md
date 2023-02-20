@@ -10,4 +10,4 @@ redirect_from:
 
 * Hello, I’m Zijian!
 * I am a Ph.D. student at the Shcool of Computer Science, the University of Auckland. My research interests focus on logical query reasoning over knowledge graph and knowledge graph embedding.
-* I received the Master of Science degree (First Class) in computer science from the University of Auckland in 2022. During my Master's study, I researched multi-hop logical query reasoning over hierarchical knowledge graphs supervised by [Dr. Meng-Fen Chiang](https://ankechiang.github.io/) and [Prof. Wang-Chien Lee](https://sites.psu.edu/wlee/).
+* I received the Master of Science degree in computer science (First Class) from the University of Auckland in 2022. During my Master's study, I researched multi-hop logical query reasoning over hierarchical knowledge graphs supervised by [Dr. Meng-Fen Chiang](https://ankechiang.github.io/) and [Prof. Wang-Chien Lee](https://sites.psu.edu/wlee/).
