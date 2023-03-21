@@ -11,7 +11,7 @@ redirect_from:
 <br>
 
 ## Education
-* 2023-Now: Ph.D. candidate, the University of Auckland, New Zealand (Supervised by [Meng-Fen Chiang](https://ankechiang.github.io/), [Jiamou Liu](https://www.cs.auckland.ac.nz/~jliu036/) and [Kaiqi Zhao](https://kaiqi.blogs.auckland.ac.nz/))
+* 2023-Now: Ph.D. candidate, the University of Auckland, New Zealand (Supervised by [Meng-Fen Chiang](https://ankechiang.github.io/) and [Jiamou Liu](https://www.cs.auckland.ac.nz/~jliu036/))
 * 2021-2022: Master of Science (First Class Honours) in Computer Science, the University of Auckland, New Zealand (Supervised by [Meng-Fen Chiang](https://ankechiang.github.io/))
 * 2016-2019: Bachelor of Science in Computer Science, the University of Auckland, New Zealand
 
