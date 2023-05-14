@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zijian Huang"
   avatar           : "profile.png"
-  bio              : "PhD candidate at University of Auckland"
+  bio              : "PhD student at The University of Auckland"
   location         : "Auckland, New Zealand"
   employer         :
   pubmed           : 
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  dblp             :
 
 # Reading Files
 include:
