@@ -34,5 +34,5 @@ redirect_from:
 <br>
 
 ## Awards
-* The University of Auckland Doctoral Scholarship
+* University of Auckland Doctoral Scholarship
  
