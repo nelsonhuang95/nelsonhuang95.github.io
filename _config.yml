@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  dblp             :
+  dblp             : "https://dblp.org/pid/205/5823-3"
 
 # Reading Files
 include:
