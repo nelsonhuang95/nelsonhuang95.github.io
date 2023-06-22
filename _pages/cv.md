@@ -31,8 +31,3 @@ redirect_from:
     {% include selected_publications.html %}
   {% endfor %}</ul>
   
-<br>
-
-## Awards
-* University of Auckland Doctoral Scholarship
- 
