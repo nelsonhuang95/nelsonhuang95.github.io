@@ -29,7 +29,3 @@ redirect_from:
     {% include selected_publications.html %}
   {% endfor %}</ul>
 
-## Professional Services
-Program Committee Member:
-  * ECAI 2023
-  
