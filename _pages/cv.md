@@ -24,7 +24,7 @@ redirect_from:
     * I served as a principal contributor and programmer of a project. I proposed a novel framework that employs YOLOv5 and ResNet to enhance the efficiency and accuracy of the core image recognition of rock-solid.
 
 
-## Publications
+## Selected Publications
   <ul>{% for post in site.publications %}
     {% include selected_publications.html %}
   {% endfor %}</ul>
