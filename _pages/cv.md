@@ -14,7 +14,7 @@ redirect_from:
 * 2023-Now: Ph.D. student in Computer Science, The University of Auckland, New Zealand <br>
 (Supervised by [Meng-Fen Chiang](https://ankechiang.github.io/) and [Jiamou Liu](https://www.cs.auckland.ac.nz/~jliu036/))
 * 2021-2022: M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand <br>
-(Supervised by [Meng-Fen Chiang](https://ankechiang.github.io/))
+(Supervised by Meng-Fen Chiang)
 * 2016-2019: B.Sc. in Computer Science, The University of Auckland, New Zealand
 
 
