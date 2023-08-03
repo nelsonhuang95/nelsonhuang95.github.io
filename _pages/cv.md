@@ -19,9 +19,8 @@ redirect_from:
 
 
 ## Work experience
-* 2022.03-2022.08: Guangzhou Urban Planning & Design Survey Research Institute, Guangzhou, China
-  * Intern
-    * I served as a principal contributor and programmer of a project. I proposed a novel framework that employs YOLOv5 and ResNet to enhance the efficiency and accuracy of the core image recognition of rock-solid.
+* 2022.03-2022.08: Intern, Guangzhou Urban Planning & Design Survey Research Institute, Guangzhou, China 
+  * I served as a principal contributor and programmer of a project. I proposed a novel framework that employs YOLOv5 and ResNet to enhance the efficiency and accuracy of the core image recognition of rock-solid.
 
 
 ## Selected Publications
