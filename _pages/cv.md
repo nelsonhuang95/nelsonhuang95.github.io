@@ -32,3 +32,8 @@ redirect_from:
 ## Awards
 * University of Auckland Doctoral Scholarships (2023)
 
+
+## Professional Services
+Program Committee Member:
+* ECAI 2023, EMNLP 2023
+
