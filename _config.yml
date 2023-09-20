@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zijian Huang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zijian Huang"
 description              : &description "personal description"
