@@ -12,5 +12,5 @@ I am a Ph.D. student at the School of Computer Science, the University of Auckla
 
 My research interests include:
 * Knowledge Graph Representation Learning
-* Multi-hop Query Reasoning over Knowledge Graphs
-* Natural Language Question Answering
+* Knowledge Graph Question Answering
+* Natural Language Processing
