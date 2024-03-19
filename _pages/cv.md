@@ -35,5 +35,8 @@ redirect_from:
 
 ## Professional Services
 Program Committee Member:
-* ECAI 2023, EMNLP 2023
+* ECAI 2023
+* EMNLP 2023
 
+External Reviewer:
+* PAKDD 2022
