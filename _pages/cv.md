@@ -11,7 +11,7 @@ redirect_from:
 <br>
 
 ## Education
-* Ph.D. student in Computer Science, The University of Auckland, New Zealand, 2023-Now <br>
+* Ph.D. candidate in Computer Science, The University of Auckland, New Zealand, 2023-Now <br>
 (Supervised by [Meng-Fen Chiang](https://ankechiang.github.io/) and [Sebastian Link](https://profiles.auckland.ac.nz/s-link))
 * M.Sc. (First Class Honours) in Computer Science, The University of Auckland, New Zealand, 2021-2022 <br>
 (Supervised by Meng-Fen Chiang)
@@ -37,6 +37,9 @@ redirect_from:
 Program Committee Member:
 * ECAI 2023
 * EMNLP 2023
+
+Journal Reviewer:
+* TOIS
 
 External Reviewer:
 * PAKDD 2022
