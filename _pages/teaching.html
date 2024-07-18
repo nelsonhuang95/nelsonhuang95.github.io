@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <h2>Teaching Assistant</h2>
+    <ul>
+      <li>
+          <b>COMPSCI753: Algorithms for Massive Data</b><br>
+          Semester 2, 2024, The University of Auckland
+      </li>
+     </ul>
+  </article>
+</div>
