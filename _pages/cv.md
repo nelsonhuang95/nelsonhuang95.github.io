@@ -28,10 +28,11 @@ redirect_from:
     {% include selected_publications.html %}
   {% endfor %}</ul>
 
+## Teaching
+* Algorithms for Massive Data (COMPSCI 753), Teaching Assistant, S2 2024, The University of Auckland
 
 ## Awards
 * University of Auckland Doctoral Scholarships (2023)
-
 
 ## Professional Services
 Program Committee Member:
